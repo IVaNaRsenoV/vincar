@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vincar/static/css/main.aef7cc34.css",
+    "main.css": "/vincar/static/css/main.16039a6f.css",
     "main.js": "/vincar/static/js/main.d7212f6f.js",
     "static/media/logo.png": "/vincar/static/media/logo.277eb224c45a758c6481.png",
     "index.html": "/vincar/index.html",
-    "main.aef7cc34.css.map": "/vincar/static/css/main.aef7cc34.css.map",
+    "main.16039a6f.css.map": "/vincar/static/css/main.16039a6f.css.map",
     "main.d7212f6f.js.map": "/vincar/static/js/main.d7212f6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.aef7cc34.css",
+    "static/css/main.16039a6f.css",
     "static/js/main.d7212f6f.js"
   ]
 }
