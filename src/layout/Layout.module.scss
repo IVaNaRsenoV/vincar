@@ -1,0 +1,22 @@
+.wrapper {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    padding-right: 30px;
+}
+
+.wrapper li {
+    list-style: none;
+    padding: 14px;
+    padding-right: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    transition: all .2s ease;
+}
+
+a:hover {
+    color: rgb(88, 6, 6);
+}
